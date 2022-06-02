@@ -1,0 +1,11 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><help_text></help_text><element><id>UMLClass</id><coordinates><x>67</x><y>130</y><w>100</w><h>70</h></coordinates><panel_attributes>Costumer/User
+--
+Log In</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>160</x><y>160</y><w>120</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>100;10;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>260</x><y>130</y><w>140</w><h>70</h></coordinates><panel_attributes>Log In
+--
+Name
+Pin
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>320</x><y>190</y><w>30</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;70;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>390</x><y>150</y><w>140</w><h>40</h></coordinates><panel_attributes>lt=&lt;.
+can </panel_attributes><additional_attributes>120;20;10;20</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>510</x><y>150</y><w>120</w><h>40</h></coordinates><panel_attributes>Log Out</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>280</x><y>260</y><w>100</w><h>30</h></coordinates><panel_attributes>Balance</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>320</x><y>280</y><w>30</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;50;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>290</x><y>330</y><w>70</w><h>50</h></coordinates><panel_attributes>Withdraw
+--
+Amount
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
